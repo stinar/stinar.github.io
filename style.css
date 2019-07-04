@@ -18,9 +18,12 @@ body {
     border-bottom: 2px solid gray;
 }
 
-.nav-item .boid {
-	margin-left: 920px;
+.navbar-collapse {
+	display: flex;
+	justify-content: flex-end;
 }
+
+
 .navbar-light .navbar-brand {
 	color: rgb(94, 102, 95);
 	font-weight: bold;
